@@ -80,7 +80,7 @@
 |---|---|---|---|
 | [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | Web Dev portfolio — OC RNCP38145 (Proj. 3–13) | 🟢 Active | HTML5 · CSS3 |
 | [git-workflow-demo](https://github.com/KinSushi/git-workflow-demo) | Professional Git workflow — SSH · branching · commits | 🟢 Active | Git · Shell |
-| [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Production infra — KVM/QEMU · MT5 24/7 · Ubuntu ML stack | 🟢 Active | Linux · KVM · Tailscale |
+| [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Linux/KVM infrastructure lab — Ubuntu host · VMs · networking · DevOps foundations | 🟢 Active | Linux · KVM · Tailscale |
 | [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | Real-time flight pipeline → dynamic rental pricing | 🟢 Active | Python · APIs · Linux |
 | jedha-portfolio *(coming Apr 2026)* | Data Science bootcamp projects | 🔜 Planned | Python · ML |
 | sovralys-ml-projects *(coming 2026)* | ML trading & infra — SOVRALYS | 🔜 Planned | PyTorch · AWS |
