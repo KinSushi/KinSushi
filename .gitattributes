@@ -1,0 +1,21 @@
+# Normalize line endings across Windows/Linux/macOS
+* text=auto eol=lf
+
+# Text assets
+*.md text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.sql text eol=lf
+*.sh text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
