@@ -4,6 +4,7 @@ This folder contains public technical documentation for the GitHub profile.
 
 | Document | Purpose |
 |---|---|
+| [VISUAL_IDENTITY.md](VISUAL_IDENTITY.md) | Visual system, banners, colors, README layout and public-safety design rules |
 | [SWISS_BANKING_BIG_TECH_POSITIONING.md](SWISS_BANKING_BIG_TECH_POSITIONING.md) | Employer-neutral positioning across Swiss banking and big-tech environments |
 | [SWISS_TARGET_ECOSYSTEM.md](SWISS_TARGET_ECOSYSTEM.md) | Broad Swiss banking, fintech, infrastructure and big-tech ecosystem map |
 | [INDUSTRY_MAP_INSURANCE_HEALTH.md](INDUSTRY_MAP_INSURANCE_HEALTH.md) | Insurance, health insurance, reinsurance, pharma and medtech ecosystem map |
