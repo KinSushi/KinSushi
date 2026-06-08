@@ -1,8 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     KinSushi / KinSushi — GitHub Profile README
-     Public positioning: Data / MLOps / AI systems for regulated finance and Swiss big-tech environments
+﻿<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+     KinSushi / KinSushi â€” GitHub Profile README
+     Public positioning: Data / MLOps / AI systems for regulated and data-intensive environments
      Last updated: June 2026
-     ═══════════════════════════════════════════════════════════════ -->
+     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
 
 <div align="center">
 
@@ -10,11 +10,11 @@
 
 <br/>
 
-# Enzo · KinSushi
+# Enzo Â· KinSushi
 
 ### Junior Data / MLOps Engineer for regulated and data-intensive systems
 
-Python · SQL · Linux · Data Quality · Monitoring · MLflow · Docker · CI/CD · AI Governance
+Python Â· SQL Â· Linux Â· Data Quality Â· Monitoring Â· MLflow Â· Docker Â· CI/CD Â· AI Governance
 
 <a href="https://www.linkedin.com/in/enzo-c-di-bacco-074842226">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -44,6 +44,22 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 
 ---
 
+## Active portfolio repositories
+
+| Priority | Repository | Purpose | Stack / signal |
+|---:|---|---|---|
+| 1 | [banking-dataops-monitoring](https://github.com/KinSushi/banking-dataops-monitoring) | Regulated-data monitoring lab: SQL controls, reconciliation, dashboard, runbooks | PostgreSQL Â· Python Â· Streamlit Â· DataOps |
+| 2 | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower) | Synthetic risk/anomaly ML lifecycle with serving and governance | scikit-learn Â· MLflow Â· FastAPI Â· Docker |
+| 3 | [database-migration-quality-lab](https://github.com/KinSushi/database-migration-quality-lab) | Legacy-to-target migration with validation, reconciliation and rollback | PostgreSQL Â· SQL Â· Python Â· Data Quality |
+| 4 | [secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant) | Secure RAG / LLMOps with synthetic documents, privacy and evaluation controls | RAG Â· LLMOps Â· Privacy Â· AI Governance |
+| 5 | [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio) | Public sanitized six-block Jedha RNCP35288 evidence portfolio | Data Science Â· MLOps Â· Governance |
+| 6 | [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Personal Data / ML infrastructure lab: Ubuntu, KVM/QEMU, private networking, runbooks | Linux Â· KVM/QEMU Â· Docker Â· Jupyter |
+| 7 | [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | Production-style Python API automation pipeline with scheduling and alerting | Python Â· REST APIs Â· Cron Â· CI |
+| 8 | [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | Web development portfolio and RNCP38145 project delivery evidence | HTML5 Â· CSS3 Â· GitHub Pages |
+| 9 | [git-workflow-demo](https://github.com/KinSushi/git-workflow-demo) | Professional Git workflow reference: SSH, branches, commits, onboarding | Git Â· SSH Â· Conventional Commits |
+
+---
+
 ## Navigation
 
 <table>
@@ -61,12 +77,11 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 </td>
 <td width="50%">
 
-### Portfolio execution
+### Portfolio standards
 
-- [Starter Kits](starters/README.md)
+- [Visual Identity](docs/VISUAL_IDENTITY.md)
 - [Project Blueprints](docs/PROJECT_BLUEPRINTS.md)
 - [Portfolio Quality Gates](docs/PORTFOLIO_QUALITY_GATES.md)
-- [24-Week Execution Plan](docs/24_WEEK_EXECUTION_PLAN.md)
 - [Metrics of Success](docs/METRICS_OF_SUCCESS.md)
 - [Public Repository Rules](docs/PUBLIC_REPO_RULES.md)
 
@@ -80,14 +95,14 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 
 | Area | Roles |
 |---|---|
-| Data production | Junior Data Engineer · DataOps Engineer · Application & Data Support Engineer |
-| Banking / insurance IT | IT Production Engineer · Database / Data Migration Junior Engineer · Claims / policy data support |
-| Analytics & risk | Risk & Compliance Data Analyst · Anomaly Analytics Junior · BI Analyst |
-| Insurance / health data | Claims Data Analyst · Healthcare Data Analyst · Actuarial Data Analyst · Data Quality Analyst |
-| Pharma / medtech | Clinical Data Analyst · Regulatory Data Analyst · Manufacturing Data Engineer · Research Software Engineer |
-| MLOps / AI platform | Junior MLOps Engineer · ML Platform Engineer Junior · AI Platform Engineer Junior |
-| Big-tech compatible path | Data Platform · Cloud-native Data Engineering · ML Infrastructure · Observability |
-| Industrial / scientific systems | Industrial Data Engineer · IoT Data Engineer · Scientific Computing Engineer · Automation Data Engineer |
+| Data production | Junior Data Engineer Â· DataOps Engineer Â· Application & Data Support Engineer |
+| Banking / insurance IT | IT Production Engineer Â· Database / Data Migration Junior Engineer Â· Claims / policy data support |
+| Analytics & risk | Risk & Compliance Data Analyst Â· Anomaly Analytics Junior Â· BI Analyst |
+| Insurance / health data | Claims Data Analyst Â· Healthcare Data Analyst Â· Actuarial Data Analyst Â· Data Quality Analyst |
+| Pharma / medtech | Clinical Data Analyst Â· Regulatory Data Analyst Â· Manufacturing Data Engineer Â· Research Software Engineer |
+| MLOps / AI platform | Junior MLOps Engineer Â· ML Platform Engineer Junior Â· AI Platform Engineer Junior |
+| Big-tech compatible path | Data Platform Â· Cloud-native Data Engineering Â· ML Infrastructure Â· Observability |
+| Industrial / scientific systems | Industrial Data Engineer Â· IoT Data Engineer Â· Scientific Computing Engineer Â· Automation Data Engineer |
 
 ---
 
@@ -95,10 +110,10 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 
 | Track | Status | Evidence / output |
 |---|---|---|
-| OpenClassrooms — Développeur WordPress · RNCP38145 | Active | Web development portfolio and project delivery discipline |
-| Jedha Data Science & AI — RNCP Level 6 / Level 7 track | In progress, 2026 | Data infrastructure · EDA/statistics · ML · NLP/deep learning · MLOps · project governance |
-| Switzerland regulated industries transition | Active | Geneva · Lausanne · Gland · Zurich · Basel · regulated data · scale engineering |
-| Production data portfolio | Building | SQL · Python · Linux · monitoring · data quality · MLflow · Docker · CI/CD |
+| OpenClassrooms â€” DÃ©veloppeur WordPress Â· RNCP38145 | Active | Web development portfolio and project delivery discipline |
+| Jedha Data Science & AI â€” RNCP Level 6 / Level 7 track | In progress, 2026 | Data infrastructure Â· EDA/statistics Â· ML Â· NLP/deep learning Â· MLOps Â· project governance |
+| Switzerland regulated industries transition | Active | Geneva Â· Lausanne Â· Gland Â· Zurich Â· Basel Â· regulated data Â· scale engineering |
+| Production data portfolio | Active | SQL Â· Python Â· Linux Â· monitoring Â· data quality Â· MLflow Â· Docker Â· CI/CD |
 
 ---
 
@@ -148,9 +163,9 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 
 ### Governance / reliability focus
 
-`data quality` · `data reconciliation` · `incident runbooks` · `auditability` · `model cards` · `data cards` · `drift monitoring` · `AI governance` · `secret hygiene`
+`data quality` Â· `data reconciliation` Â· `incident runbooks` Â· `auditability` Â· `model cards` Â· `data cards` Â· `drift monitoring` Â· `AI governance` Â· `secret hygiene`
 
-Full stack map → [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA_AI_STACK.md)
+Full stack map â†’ [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA_AI_STACK.md)
 
 ---
 
@@ -160,48 +175,18 @@ Full stack map → [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA
 
 ---
 
-## Repository map
-
-| Repository | Purpose | Status | Stack / signal |
-|---|---|---|---|
-| [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | Production Python automation pipeline: API ingestion, business rules, scheduled execution, alerting and calendar integration | Active | Python · REST APIs · Linux · cron · CI · tests |
-| [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Personal data/ML infrastructure lab: Ubuntu host, KVM/QEMU VM, private networking, Docker/Jupyter separation and incident post-mortems | Active | Linux · KVM/QEMU · Tailscale · Docker · Jupyter |
-| [git-workflow-demo](https://github.com/KinSushi/git-workflow-demo) | Professional Git workflow: SSH, branches, Conventional Commits and team onboarding | Active | Git · Shell · documentation |
-| [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | Web development portfolio and RNCP38145 project work | Active | HTML5 · CSS3 · delivery discipline |
-| [Starter Kits](starters/README.md) | Ready-to-promote starter kits for DataOps, MLOps, migration and secure RAG repositories | Active | SQL · Python · MLflow · FastAPI · governance docs |
-| `banking-dataops-monitoring` | Data quality and monitoring lab for regulated-data production support roles | Planned 2026 | PostgreSQL · Python · SQL controls · Streamlit |
-| `fraud-mlops-control-tower` | Risk/anomaly ML pipeline with MLOps documentation and model monitoring | Planned 2026 | scikit-learn · MLflow · FastAPI · Docker · CI/CD |
-| `jedha-rncp35288-portfolio` | Six-block Jedha certification evidence: infrastructure, EDA, ML, NLP, MLOps and project governance | Planned 2026 | Python · SQL · ML · MLflow · Docker |
-| `database-migration-quality-lab` | Legacy-to-target migration, validation and reconciliation | Planned 2026 | PostgreSQL · SQL · Python · data quality |
-| `secure-wealth-rag-assistant` | RAG/LLMOps prototype for sensitive-document workflows with evaluation and controls | Planned later | RAG · guardrails · privacy · AI governance |
-
----
-
-## Portfolio standards now available
-
-| Asset | Use |
-|---|---|
-| [README template](docs/templates/README_TEMPLATE.md) | Standard visual structure for future repositories |
-| [Model card template](docs/templates/MODEL_CARD_TEMPLATE.md) | Model governance and validation documentation |
-| [Data card template](docs/templates/DATA_CARD_TEMPLATE.md) | Dataset documentation and privacy boundaries |
-| [Incident runbook template](docs/templates/INCIDENT_RUNBOOK_TEMPLATE.md) | Production incident documentation |
-| [Controls matrix template](docs/templates/CONTROLS_MATRIX_TEMPLATE.md) | Data/model control evidence for regulated environments |
-| [PR template](.github/PULL_REQUEST_TEMPLATE.md) | Public-safety and quality checks before changes |
-
----
-
-## What I am building next
+## Next hardening phase
 
 ```text
 2026 H2
-├── promote starter kits into dedicated repositories
-├── banking-dataops-monitoring — SQL, data quality, monitoring, incident runbook
-├── fraud-mlops-control-tower — MLflow, API serving, Docker, CI/CD, model card
-├── database-migration-quality-lab — legacy-to-target validation and reconciliation
-└── secure-wealth-rag-assistant — RAG, privacy controls, evaluation and AI governance
+â”œâ”€â”€ run and verify CI on all active repositories
+â”œâ”€â”€ add sanitized dashboard/API/MLflow screenshots
+â”œâ”€â”€ add local execution notes after first full run
+â”œâ”€â”€ promote strongest repositories to pinned positions
+â””â”€â”€ keep application material outside public GitHub
 ```
 
-The goal is not to collect isolated notebooks. The goal is to produce recruiter-readable technical evidence for regulated and data-intensive systems: reliable data pipelines, documented controls, monitored models and clean operational handover.
+The goal is not to collect isolated notebooks. The goal is recruiter-readable technical evidence for regulated and data-intensive systems: reliable data pipelines, documented controls, monitored models and clean operational handover.
 
 ---
 
@@ -211,8 +196,8 @@ The goal is not to collect isolated notebooks. The goal is to produce recruiter-
 |---|---|
 | French | Native |
 | Italian | Native |
-| English | Professional — C1 |
-| Spanish | Operational — B2 |
+| English | Professional â€” C1 |
+| Spanish | Operational â€” B2 |
 | German | B1, improving for Swiss banking and Zurich-based roles |
 
 ---
@@ -222,9 +207,10 @@ The goal is not to collect isolated notebooks. The goal is to produce recruiter-
 | | |
 |---|---|
 | LinkedIn | [enzo-c-di-bacco-074842226](https://www.linkedin.com/in/enzo-c-di-bacco-074842226) |
-| Target location | Switzerland — Geneva · Lausanne · Gland · Zurich · Basel |
-| Public target domains | Data Engineering · DataOps · MLOps · Risk Analytics · Insurance Analytics · Health Data · AI Platforms · Big-tech Data Systems |
+| Target location | Switzerland â€” Geneva Â· Lausanne Â· Gland Â· Zurich Â· Basel |
+| Public target domains | Data Engineering Â· DataOps Â· MLOps Â· Risk Analytics Â· Insurance Analytics Â· Health Data Â· AI Platforms Â· Big-tech Data Systems |
 
 ---
 
 <sub>Public GitHub optimized for technical evidence. Application materials, private school documents, salary targets and employer-specific notes are intentionally kept outside this repository.</sub>
+
