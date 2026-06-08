@@ -1,0 +1,46 @@
+# Private application material — keep outside public GitHub
+cv/
+cvs/
+resume/
+resumes/
+cover-letters/
+applications/
+job-tracker/
+recruiters/
+interviews/
+salary/
+private/
+admin/
+school-documents/
+certificates-private/
+
+# Personal / administrative files
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.odt
+*.ods
+*.pages
+*.numbers
+*.key
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.ppk
+credentials.json
+token.json
+token.pickle
+secrets/
+
+# Runtime / local
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.log
+.DS_Store
+Thumbs.db
