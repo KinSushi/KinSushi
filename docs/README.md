@@ -6,6 +6,8 @@ This folder contains public technical documentation for the GitHub profile.
 |---|---|
 | [SWISS_BANKING_BIG_TECH_POSITIONING.md](SWISS_BANKING_BIG_TECH_POSITIONING.md) | Employer-neutral positioning across Swiss banking and big-tech environments |
 | [SWISS_TARGET_ECOSYSTEM.md](SWISS_TARGET_ECOSYSTEM.md) | Broad Swiss banking, fintech, infrastructure and big-tech ecosystem map |
+| [INDUSTRY_MAP_INSURANCE_HEALTH.md](INDUSTRY_MAP_INSURANCE_HEALTH.md) | Insurance, health insurance, reinsurance, pharma and medtech ecosystem map |
+| [PROGRAMMING_LANGUAGES_MATRIX.md](PROGRAMMING_LANGUAGES_MATRIX.md) | Programming language map for data, MLOps, systems, automation and numerical computing |
 | [SWISS_BANKING_DATA_AI_STACK.md](SWISS_BANKING_DATA_AI_STACK.md) | Full technical stack map: Python, data, ML, MLOps, LLMOps, DataOps and governance |
 | [PROJECT_BLUEPRINTS.md](PROJECT_BLUEPRINTS.md) | Future public repository designs for DataOps, MLOps, migration, RAG and Jedha evidence |
 | [PORTFOLIO_QUALITY_GATES.md](PORTFOLIO_QUALITY_GATES.md) | Definition of Done for public technical repositories |
