@@ -19,6 +19,13 @@ Python · SQL · Linux · Data Quality · Monitoring · MLflow · Docker · CI/C
 <img src="https://img.shields.io/badge/Focus-Regulated%20Finance-1F6FEB?style=for-the-badge" alt="Regulated finance"/>
 <img src="https://img.shields.io/badge/Track-Jedha%20RNCP%20L6%20%2B%20L7-6F42C1?style=for-the-badge" alt="Jedha RNCP track"/>
 
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Public%20Repo-Technical%20Evidence%20Only-24292F?style=flat" alt="technical evidence only"/>
+<img src="https://img.shields.io/badge/No%20CV%20Here-Application%20Material%20Private-DC143C?style=flat" alt="no cv here"/>
+<img src="https://img.shields.io/badge/Data-Synthetic%20or%20Open%20Only-2EA043?style=flat" alt="synthetic data only"/>
+
 </div>
 
 ---
@@ -38,9 +45,13 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 | Document | Purpose |
 |---|---|
 | [Swiss Banking & Big Tech Positioning](docs/SWISS_BANKING_BIG_TECH_POSITIONING.md) | Employer-neutral positioning across Swiss banking, financial infrastructure and big-tech environments |
+| [Swiss Target Ecosystem](docs/SWISS_TARGET_ECOSYSTEM.md) | Broad Swiss banking, fintech, infrastructure and big-tech ecosystem map |
 | [Swiss Banking Data/AI Stack Map](docs/SWISS_BANKING_DATA_AI_STACK.md) | Full technical map: Python, ML, MLOps, DataOps, Data Analyst, Data Scientist, Data Engineer, LLMOps and governance tools |
+| [Project Blueprints](docs/PROJECT_BLUEPRINTS.md) | Future public repositories: DataOps, MLOps, migration, RAG and Jedha evidence |
+| [Portfolio Quality Gates](docs/PORTFOLIO_QUALITY_GATES.md) | Definition of Done for public technical portfolio repositories |
 | [Jedha Certification Map](docs/JEDHA_CERTIFICATIONS.md) | Public mapping of Jedha RNCP Level 6 and Level 7 certification tracks |
 | [Public Repository Rules](docs/PUBLIC_REPO_RULES.md) | What belongs in public GitHub and what must remain private |
+| [Documentation Index](docs/README_INDEX.md) | Secondary index for all public documentation |
 
 ---
 
@@ -120,6 +131,10 @@ flowchart TD
     H[Jedha RNCP Evidence] --> I[jedha-rncp35288-portfolio]
     I --> D
     I --> E
+    Q[Quality Gates & Templates] --> D
+    Q --> E
+    Q --> F
+    Q --> G
 ```
 
 ---
@@ -137,6 +152,19 @@ flowchart TD
 | `jedha-rncp35288-portfolio` | Six-block Jedha certification evidence: infrastructure, EDA, ML, NLP, MLOps and project governance | Planned 2026 | Python · SQL · ML · MLflow · Docker |
 | `database-migration-quality-lab` | Legacy-to-target migration, validation and reconciliation | Planned 2026 | PostgreSQL · SQL · Python · data quality |
 | `secure-wealth-rag-assistant` | RAG/LLMOps prototype for private-banking documents with evaluation and controls | Planned later | RAG · guardrails · privacy · AI governance |
+
+---
+
+## Portfolio standards now available
+
+| Asset | Use |
+|---|---|
+| [README template](docs/templates/README_TEMPLATE.md) | Standard visual structure for future repositories |
+| [Model card template](docs/templates/MODEL_CARD_TEMPLATE.md) | Model governance and validation documentation |
+| [Data card template](docs/templates/DATA_CARD_TEMPLATE.md) | Dataset documentation and privacy boundaries |
+| [Incident runbook template](docs/templates/INCIDENT_RUNBOOK_TEMPLATE.md) | Production incident documentation |
+| [Controls matrix template](docs/templates/CONTROLS_MATRIX_TEMPLATE.md) | Data/model control evidence for regulated environments |
+| [PR template](.github/PULL_REQUEST_TEMPLATE.md) | Public-safety and quality checks before changes |
 
 ---
 
