@@ -1,0 +1,58 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio ecosystem map">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B1F3A"/>
+    </linearGradient>
+    <style>
+      .title{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:34px;font-weight:700;fill:#fff}
+      .sub{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:18px;fill:#9FB3C8}
+      .label{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:18px;font-weight:650;fill:#fff}
+      .small{font-family:Inter,Segoe UI,Arial,sans-serif;font-size:13px;fill:#D8E2F0}
+      .node{stroke:#58A6FF;stroke-width:1.5;fill:#102A43}
+      .node2{stroke:#2EA043;stroke-width:1.5;fill:#0F2F24}
+      .node3{stroke:#A371F7;stroke-width:1.5;fill:#24143D}
+      .line{stroke:#5E6C84;stroke-width:2;opacity:.55}
+    </style>
+  </defs>
+  <rect width="1280" height="520" rx="28" fill="url(#bg)"/>
+  <text x="64" y="64" class="title">Public Portfolio Architecture</text>
+  <text x="64" y="96" class="sub">Technical evidence for regulated and data-intensive environments</text>
+
+  <line x1="310" y1="180" x2="520" y2="180" class="line"/>
+  <line x1="310" y1="282" x2="520" y2="282" class="line"/>
+  <line x1="740" y1="180" x2="960" y2="140" class="line"/>
+  <line x1="740" y1="282" x2="960" y2="324" class="line"/>
+  <line x1="740" y1="232" x2="960" y2="232" class="line"/>
+
+  <rect x="64" y="140" width="246" height="80" rx="18" class="node"/>
+  <text x="88" y="174" class="label">Infra Foundation</text>
+  <text x="88" y="200" class="small">Linux · Docker · Runbooks</text>
+
+  <rect x="64" y="242" width="246" height="80" rx="18" class="node"/>
+  <text x="88" y="276" class="label">Python Pipeline</text>
+  <text x="88" y="302" class="small">APIs · Automation · CI</text>
+
+  <rect x="520" y="140" width="220" height="80" rx="18" class="node2"/>
+  <text x="544" y="174" class="label">DataOps</text>
+  <text x="544" y="200" class="small">SQL · Quality · Monitoring</text>
+
+  <rect x="520" y="242" width="220" height="80" rx="18" class="node2"/>
+  <text x="544" y="276" class="label">MLOps</text>
+  <text x="544" y="302" class="small">MLflow · API · Docker</text>
+
+  <rect x="960" y="100" width="250" height="80" rx="18" class="node3"/>
+  <text x="984" y="134" class="label">Governance</text>
+  <text x="984" y="160" class="small">Cards · Controls · Risk notes</text>
+
+  <rect x="960" y="202" width="250" height="80" rx="18" class="node3"/>
+  <text x="984" y="236" class="label">Sensitive Docs AI</text>
+  <text x="984" y="262" class="small">RAG · Privacy · Evaluation</text>
+
+  <rect x="960" y="304" width="250" height="80" rx="18" class="node3"/>
+  <text x="984" y="338" class="label">Industry Evidence</text>
+  <text x="984" y="364" class="small">Finance · Insurance · Health · Tech</text>
+
+  <rect x="64" y="426" width="1146" height="46" rx="23" fill="#0D419D" opacity=".82"/>
+  <text x="94" y="456" class="small">Rule: public GitHub contains technical evidence only — no CVs, no applications, no private documents, no sensitive data.</text>
+</svg>
