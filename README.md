@@ -61,8 +61,9 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 </td>
 <td width="50%">
 
-### Portfolio standards
+### Portfolio execution
 
+- [Starter Kits](starters/README.md)
 - [Project Blueprints](docs/PROJECT_BLUEPRINTS.md)
 - [Portfolio Quality Gates](docs/PORTFOLIO_QUALITY_GATES.md)
 - [24-Week Execution Plan](docs/24_WEEK_EXECUTION_PLAN.md)
@@ -167,6 +168,7 @@ Full stack map → [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA
 | [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Personal data/ML infrastructure lab: Ubuntu host, KVM/QEMU VM, private networking, Docker/Jupyter separation and incident post-mortems | Active | Linux · KVM/QEMU · Tailscale · Docker · Jupyter |
 | [git-workflow-demo](https://github.com/KinSushi/git-workflow-demo) | Professional Git workflow: SSH, branches, Conventional Commits and team onboarding | Active | Git · Shell · documentation |
 | [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | Web development portfolio and RNCP38145 project work | Active | HTML5 · CSS3 · delivery discipline |
+| [Starter Kits](starters/README.md) | Ready-to-promote starter kits for DataOps, MLOps, migration and secure RAG repositories | Active | SQL · Python · MLflow · FastAPI · governance docs |
 | `banking-dataops-monitoring` | Data quality and monitoring lab for regulated-data production support roles | Planned 2026 | PostgreSQL · Python · SQL controls · Streamlit |
 | `fraud-mlops-control-tower` | Risk/anomaly ML pipeline with MLOps documentation and model monitoring | Planned 2026 | scikit-learn · MLflow · FastAPI · Docker · CI/CD |
 | `jedha-rncp35288-portfolio` | Six-block Jedha certification evidence: infrastructure, EDA, ML, NLP, MLOps and project governance | Planned 2026 | Python · SQL · ML · MLflow · Docker |
@@ -188,19 +190,11 @@ Full stack map → [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA
 
 ---
 
-## Why the infrastructure lab stays visible
-
-The infrastructure lab is part of the data-engineering path, not a side distraction. A future data lead or MLOps lead must understand compute hosts, private networking, VM lifecycle, service isolation, recovery procedures and operating-system level failure modes.
-
-The repo documents those foundations through a real lab: Ubuntu host, KVM/QEMU, Tailscale access, Docker/Jupyter separation, VM recovery and post-mortems.
-
----
-
 ## What I am building next
 
 ```text
 2026 H2
-├── Jedha RNCP Level 6 / Level 7 evidence mapping
+├── promote starter kits into dedicated repositories
 ├── banking-dataops-monitoring — SQL, data quality, monitoring, incident runbook
 ├── fraud-mlops-control-tower — MLflow, API serving, Docker, CI/CD, model card
 ├── database-migration-quality-lab — legacy-to-target validation and reconciliation
