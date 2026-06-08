@@ -49,9 +49,14 @@ This GitHub is intentionally **technical and employer-neutral**. It is built to 
 | [Swiss Banking Data/AI Stack Map](docs/SWISS_BANKING_DATA_AI_STACK.md) | Full technical map: Python, ML, MLOps, DataOps, Data Analyst, Data Scientist, Data Engineer, LLMOps and governance tools |
 | [Project Blueprints](docs/PROJECT_BLUEPRINTS.md) | Future public repositories: DataOps, MLOps, migration, RAG and Jedha evidence |
 | [Portfolio Quality Gates](docs/PORTFOLIO_QUALITY_GATES.md) | Definition of Done for public technical portfolio repositories |
+| [24-Week Execution Plan](docs/24_WEEK_EXECUTION_PLAN.md) | Implementation calendar from current repos to runnable portfolio |
+| [Metrics of Success](docs/METRICS_OF_SUCCESS.md) | Measurable GitHub and capability targets |
+| [Interview Evidence Map](docs/INTERVIEW_EVIDENCE_MAP.md) | Generic technical question-to-evidence map |
+| [Technical Pitch](docs/TECHNICAL_PITCH.md) | Employer-neutral technical pitch, not a cover letter |
+| [Certification Roadmap](docs/CERTIFICATION_ROADMAP.md) | Certification order aligned with portfolio evidence |
 | [Jedha Certification Map](docs/JEDHA_CERTIFICATIONS.md) | Public mapping of Jedha RNCP Level 6 and Level 7 certification tracks |
 | [Public Repository Rules](docs/PUBLIC_REPO_RULES.md) | What belongs in public GitHub and what must remain private |
-| [Documentation Index](docs/README_INDEX.md) | Secondary index for all public documentation |
+| [Full Documentation Index](docs/FULL_DOCUMENTATION_INDEX.md) | Complete documentation index |
 
 ---
 
@@ -143,7 +148,7 @@ flowchart TD
 
 | Repository | Purpose | Status | Stack / signal |
 |---|---|---|---|
-| [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | Production Python automation pipeline: API ingestion, business rules, scheduled execution, alerting and calendar integration | Active | Python · REST APIs · Linux · cron · operational documentation |
+| [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | Production Python automation pipeline: API ingestion, business rules, scheduled execution, alerting and calendar integration | Active | Python · REST APIs · Linux · cron · CI · tests |
 | [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Personal data/ML infrastructure lab: Ubuntu host, KVM/QEMU VM, private networking, Docker/Jupyter separation and incident post-mortems | Active | Linux · KVM/QEMU · Tailscale · Docker · Jupyter |
 | [git-workflow-demo](https://github.com/KinSushi/git-workflow-demo) | Professional Git workflow: SSH, branches, Conventional Commits and team onboarding | Active | Git · Shell · documentation |
 | [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | Web development portfolio and RNCP38145 project work | Active | HTML5 · CSS3 · delivery discipline |
