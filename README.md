@@ -1,4 +1,3 @@
-﻿
 <!-- KinSushi / KinSushi - GitHub Profile README -->
 <!-- Public positioning: Data / MLOps / AI systems for regulated and data-intensive environments -->
 <!-- Last updated: June 2026 -->
@@ -48,7 +47,7 @@ This GitHub is intentionally technical and employer-neutral. It is built to spea
 | Priority | Repository | Purpose | Stack / signal |
 |---:|---|---|---|
 | 1 | [banking-dataops-monitoring](https://github.com/KinSushi/banking-dataops-monitoring) | Regulated-data monitoring lab: SQL controls, reconciliation, dashboard, runbooks | PostgreSQL / Python / Streamlit / DataOps |
-| 2 | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower) | Synthetic risk/anomaly ML lifecycle with serving and governance | scikit-learn / MLflow / FastAPI / Docker |
+| 2 | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower) | Synthetic risk/anomaly ML lifecycle with threshold tuning, serving and governance | scikit-learn / MLflow / FastAPI / Docker |
 | 3 | [database-migration-quality-lab](https://github.com/KinSushi/database-migration-quality-lab) | Legacy-to-target migration with validation, reconciliation and rollback | PostgreSQL / SQL / Python / Data Quality |
 | 4 | [secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant) | Secure RAG / LLMOps with synthetic documents, privacy and evaluation controls | RAG / LLMOps / Privacy / AI Governance |
 | 5 | [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio) | Public sanitized six-block Jedha RNCP35288 evidence portfolio | Data Science / MLOps / Governance |
@@ -64,13 +63,25 @@ This GitHub is intentionally technical and employer-neutral. It is built to spea
 | Layer | Repository | Evidence |
 |---|---|---|
 | DataOps | [banking-dataops-monitoring](https://github.com/KinSushi/banking-dataops-monitoring) | SQL controls, reconciliation, dashboard, incident runbook |
-| MLOps | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower) | MLflow, FastAPI, Docker, model card, data card |
+| MLOps | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower) | MLflow, threshold tuning, FastAPI, Docker, model card, data card |
 | Data migration | [database-migration-quality-lab](https://github.com/KinSushi/database-migration-quality-lab) | legacy schema, migration SQL, validation, rollback |
 | LLMOps / RAG | [secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant) | retrieval, prompt-injection tests, privacy controls |
 | Certification evidence | [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio) | six-block public evidence map |
 | Infrastructure | [sovralys-infra-lab](https://github.com/KinSushi/sovralys-infra-lab) | Linux runtime, VM lifecycle, private networking |
 | Automation | [pty-flights-pricing](https://github.com/KinSushi/pty-flights-pricing) | API ingestion, cron, alerts, CI |
 | Web foundations | [OpenClassroomsProject](https://github.com/KinSushi/OpenClassroomsProject) | HTML/CSS, responsive delivery, GitHub Pages |
+
+---
+
+## Validation status
+
+| Repository | Current public validation evidence |
+|---|---|
+| [banking-dataops-monitoring](https://github.com/KinSushi/banking-dataops-monitoring/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, synthetic data generation, import check |
+| [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, synthetic risk data, import check, small-model training |
+| [database-migration-quality-lab](https://github.com/KinSushi/database-migration-quality-lab/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, legacy data generation, import check |
+| [secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, import check, RAG demo |
+| [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio/blob/main/docs/local_run_report.md) | public evidence file checks |
 
 ---
 
@@ -193,10 +204,10 @@ Full stack map: [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA_AI
 
 ```text
 2026 H2
-- run and verify CI on all active repositories
-- add sanitized dashboard/API/MLflow screenshots
-- add local execution notes after first full run
-- promote strongest repositories to pinned positions
+- add real UI screenshots for dashboard, FastAPI and MLflow
+- refine secret scanning into FAIL / REVIEW categories
+- deepen Jedha evidence validation
+- pin strongest repositories in portfolio order
 - keep application material outside public GitHub
 ```
 
@@ -227,4 +238,3 @@ The goal is not to collect isolated notebooks. The goal is recruiter-readable te
 ---
 
 <sub>Public GitHub optimized for technical evidence. Application materials, private school documents, salary targets and employer-specific notes are intentionally kept outside this repository.</sub>
-
