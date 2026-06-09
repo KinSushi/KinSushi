@@ -81,7 +81,7 @@ This GitHub is intentionally technical and employer-neutral. It is built to spea
 | [fraud-mlops-control-tower](https://github.com/KinSushi/fraud-mlops-control-tower/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, synthetic risk data, import check, small-model training |
 | [database-migration-quality-lab](https://github.com/KinSushi/database-migration-quality-lab/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, legacy data generation, import check |
 | [secure-wealth-rag-assistant](https://github.com/KinSushi/secure-wealth-rag-assistant/blob/main/docs/local_run_report.md) | install, compileall, pytest, ruff, import check, RAG demo |
-| [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio/blob/main/docs/local_run_report.md) | public evidence file checks |
+| [jedha-rncp35288-portfolio](https://github.com/KinSushi/jedha-rncp35288-portfolio/blob/main/docs/local_run_report.md) | required files, six-block structure, private extension scan, private folder scan, evidence index coverage |
 
 ---
 
@@ -104,6 +104,7 @@ This GitHub is intentionally technical and employer-neutral. It is built to spea
 
 ### Portfolio standards
 
+- [Final Portfolio Audit](docs/PORTFOLIO_FINAL_AUDIT.md)
 - [Visual Identity](docs/VISUAL_IDENTITY.md)
 - [Project Blueprints](docs/PROJECT_BLUEPRINTS.md)
 - [Portfolio Quality Gates](docs/PORTFOLIO_QUALITY_GATES.md)
@@ -206,7 +207,7 @@ Full stack map: [docs/SWISS_BANKING_DATA_AI_STACK.md](docs/SWISS_BANKING_DATA_AI
 2026 H2
 - add real UI screenshots for dashboard, FastAPI and MLflow
 - refine secret scanning into FAIL / REVIEW categories
-- deepen Jedha evidence validation
+- deepen Jedha evidence validation after each assessment block
 - pin strongest repositories in portfolio order
 - keep application material outside public GitHub
 ```
