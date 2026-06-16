@@ -133,9 +133,9 @@ No real client, banking, insurance, health, employer or private documents belong
 
 | Role family | Why this project helps |
 |---|---|
-| Junior AI Engineer | RAG pipeline, evaluation and controlled outputs |
-| LLMOps Engineer Junior | retrieval tests, prompt-injection tests and governance |
-| AI Platform Engineer Junior | privacy controls, human review, monitoring patterns |
+| AI Engineer | RAG pipeline, evaluation and controlled outputs |
+| LLMOps Engineer | retrieval tests, prompt-injection tests and governance |
+| AI Platform Engineer | privacy controls, human review, monitoring patterns |
 | Risk / compliance analytics | sensitive-document workflows and auditability |
 | Big-tech data/AI systems | evaluation, guardrails and reproducible AI workflows |
 
@@ -150,31 +150,31 @@ secure-wealth-rag-assistant/
 ├── pyproject.toml
 ├── docker-compose.yml
 ├── docs_sample/
-│   ├── portfolio_report_sample.md
-│   ├── market_note_sample.md
-│   └── client_profile_synthetic.json
+│ ├── portfolio_report_sample.md
+│ ├── market_note_sample.md
+│ └── client_profile_synthetic.json
 ├── src/
-│   ├── ingest_documents.py
-│   ├── chunking.py
-│   ├── embeddings.py
-│   ├── vector_store.py
-│   ├── rag_pipeline.py
-│   ├── guardrails.py
-│   ├── evaluation.py
-│   └── app.py
+│ ├── ingest_documents.py
+│ ├── chunking.py
+│ ├── embeddings.py
+│ ├── vector_store.py
+│ ├── rag_pipeline.py
+│ ├── guardrails.py
+│ ├── evaluation.py
+│ └── app.py
 ├── tests/
-│   ├── test_retrieval.py
-│   ├── test_prompt_injection.py
-│   ├── test_privacy_filters.py
-│   └── test_citations.py
+│ ├── test_retrieval.py
+│ ├── test_prompt_injection.py
+│ ├── test_privacy_filters.py
+│ └── test_citations.py
 └── docs/
-    ├── retrieval_evaluation.md
-    ├── hallucination_evaluation.md
-    ├── prompt_injection_tests.md
-    ├── privacy_controls.md
-    ├── human_review_policy.md
-    ├── ai_governance.md
-    └── non_advice_policy.md
+ ├── retrieval_evaluation.md
+ ├── hallucination_evaluation.md
+ ├── prompt_injection_tests.md
+ ├── privacy_controls.md
+ ├── human_review_policy.md
+ ├── ai_governance.md
+ └── non_advice_policy.md
 ```
 
 ---
