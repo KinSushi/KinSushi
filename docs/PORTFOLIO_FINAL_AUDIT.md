@@ -158,7 +158,7 @@ It is intended for portfolio maintenance, not for job applications. Application 
 
 | Area | Status | Evidence |
 |---|---:|---|
-| Profile positioning | OK | Junior Data / MLOps Engineer for regulated and data-intensive systems |
+| Profile positioning | OK | Data / MLOps Engineer for regulated and data-intensive systems |
 | Public repository set | OK | DataOps, MLOps, migration, RAG, Jedha evidence, infra, automation |
 | Validation artifacts | OK | `docs/local_run_report.md`, `docs/screenshots/validation-preview.svg`, `docs/screenshots/validation-output.html` |
 | Encoding cleanup | OK | No known mojibake sequences remaining in main portfolio repos |
@@ -266,20 +266,20 @@ The public source of truth is now the committed GitHub validation artifacts.
 These are optional next-phase improvements:
 
 1. Add real UI screenshots:
-   - Streamlit dashboard for DataOps.
-   - FastAPI `/docs` for MLOps.
-   - MLflow experiment page for MLOps.
-   - formatted RAG answer output.
+ - Streamlit dashboard for DataOps.
+ - FastAPI `/docs` for MLOps.
+ - MLflow experiment page for MLOps.
+ - formatted RAG answer output.
 
 2. Improve secret scan precision:
-   - `FAIL` only for real high-confidence secret patterns.
-   - `REVIEW` for documentation and `.env.example` placeholders.
+ - `FAIL` only for real high-confidence secret patterns.
+ - `REVIEW` for documentation and `.env.example` placeholders.
 
 3. Improve RAG output formatting:
-   - Answer.
-   - Sources.
-   - Safety boundary.
-   - Human review note.
+ - Answer.
+ - Sources.
+ - Safety boundary.
+ - Human review note.
 
 4. Improve Jedha evidence index after each real assessment block.
 
@@ -287,6 +287,6 @@ These are optional next-phase improvements:
 
 ## Verdict
 
-The portfolio is now suitable as public technical evidence for junior Data / DataOps / MLOps / AI-platform roles in regulated and data-intensive Swiss environments.
+The portfolio is now suitable as public technical evidence for Data / DataOps / MLOps / AI-platform roles in regulated and data-intensive Swiss environments.
 
 The next bottleneck is no longer GitHub structure. It is interview readiness, LinkedIn alignment and targeted applications.
