@@ -331,10 +331,10 @@ Prove SQL, Python, data quality, monitoring, incident investigation and producti
 
 ### Target role families
 
-- Junior Data Engineer
+- Data Engineer
 - DataOps Engineer
 - Application & Data Support Engineer
-- IT Production Engineer Junior
+- IT Production Engineer
 - Data Quality Analyst
 - Banking IT Analyst
 
@@ -348,31 +348,31 @@ banking-dataops-monitoring/
 ├── pyproject.toml
 ├── .github/workflows/ci.yml
 ├── data/
-│   ├── synthetic_transactions.csv
-│   └── synthetic_customers.csv
+│ ├── synthetic_transactions.csv
+│ └── synthetic_customers.csv
 ├── sql/
-│   ├── schema.sql
-│   ├── data_quality_checks.sql
-│   ├── reconciliation_queries.sql
-│   ├── anomaly_queries.sql
-│   └── performance_queries.sql
+│ ├── schema.sql
+│ ├── data_quality_checks.sql
+│ ├── reconciliation_queries.sql
+│ ├── anomaly_queries.sql
+│ └── performance_queries.sql
 ├── src/
-│   ├── ingest_transactions.py
-│   ├── quality_checks.py
-│   ├── monitoring.py
-│   ├── alerting.py
-│   └── incident_report.py
+│ ├── ingest_transactions.py
+│ ├── quality_checks.py
+│ ├── monitoring.py
+│ ├── alerting.py
+│ └── incident_report.py
 ├── dashboard/
-│   └── streamlit_app.py
+│ └── streamlit_app.py
 ├── tests/
-│   ├── test_ingestion.py
-│   └── test_quality_checks.py
+│ ├── test_ingestion.py
+│ └── test_quality_checks.py
 └── docs/
-    ├── architecture.md
-    ├── data_dictionary.md
-    ├── controls_matrix.md
-    ├── incident_runbook.md
-    └── rollback_plan.md
+ ├── architecture.md
+ ├── data_dictionary.md
+ ├── controls_matrix.md
+ ├── incident_runbook.md
+ └── rollback_plan.md
 ```
 
 ### Key evidence
@@ -396,11 +396,11 @@ Prove Data Science + MLOps + model governance using synthetic fraud/risk data.
 
 ### Target role families
 
-- Junior Data Scientist
-- Junior MLOps Engineer
+- Data Scientist
+- MLOps Engineer
 - Fraud Analytics Engineer
 - Risk Analytics Engineer
-- ML Platform Engineer Junior
+- ML Platform Engineer
 
 ### Repository structure
 
@@ -413,28 +413,28 @@ fraud-mlops-control-tower/
 ├── pyproject.toml
 ├── .github/workflows/ci.yml
 ├── data/
-│   └── synthetic_transactions.csv
+│ └── synthetic_transactions.csv
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_training.ipynb
-│   └── 03_evaluation.ipynb
+│ ├── 01_eda.ipynb
+│ ├── 02_training.ipynb
+│ └── 03_evaluation.ipynb
 ├── src/
-│   ├── features.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── api.py
-│   ├── monitor.py
-│   └── drift_detection.py
+│ ├── features.py
+│ ├── train.py
+│ ├── evaluate.py
+│ ├── api.py
+│ ├── monitor.py
+│ └── drift_detection.py
 ├── tests/
-│   ├── test_features.py
-│   ├── test_api.py
-│   └── test_monitoring.py
+│ ├── test_features.py
+│ ├── test_api.py
+│ └── test_monitoring.py
 └── docs/
-    ├── data_card.md
-    ├── model_card.md
-    ├── risk_assessment.md
-    ├── monitoring_plan.md
-    └── deployment_runbook.md
+ ├── data_card.md
+ ├── model_card.md
+ ├── risk_assessment.md
+ ├── monitoring_plan.md
+ └── deployment_runbook.md
 ```
 
 ### Key evidence
@@ -458,9 +458,9 @@ Prove legacy-to-modern migration, SQL validation and reconciliation.
 
 ### Target role families
 
-- Junior Data Engineer
+- Data Engineer
 - Data Migration Engineer
-- Database Administrator Junior
+- Database Administrator
 - Banking IT Analyst
 - Core banking integration support
 
@@ -472,23 +472,23 @@ database-migration-quality-lab/
 ├── docker-compose.yml
 ├── pyproject.toml
 ├── sql/
-│   ├── legacy_schema.sql
-│   ├── target_schema.sql
-│   ├── migration.sql
-│   ├── validation_checks.sql
-│   └── reconciliation_report.sql
+│ ├── legacy_schema.sql
+│ ├── target_schema.sql
+│ ├── migration.sql
+│ ├── validation_checks.sql
+│ └── reconciliation_report.sql
 ├── src/
-│   ├── migrate.py
-│   ├── validate.py
-│   └── generate_report.py
+│ ├── migrate.py
+│ ├── validate.py
+│ └── generate_report.py
 ├── tests/
-│   ├── test_migration.py
-│   └── test_reconciliation.py
+│ ├── test_migration.py
+│ └── test_reconciliation.py
 └── docs/
-    ├── migration_strategy.md
-    ├── data_quality_rules.md
-    ├── rollback_plan.md
-    └── performance_notes.md
+ ├── migration_strategy.md
+ ├── data_quality_rules.md
+ ├── rollback_plan.md
+ └── performance_notes.md
 ```
 
 ### Key evidence
@@ -511,8 +511,8 @@ Prove RAG/LLMOps, privacy, retrieval evaluation and AI governance on synthetic p
 
 ### Target role families
 
-- Junior AI Engineer
-- LLMOps Engineer Junior
+- AI Engineer
+- LLMOps Engineer
 - GenAI Engineer
 - AI Platform Engineer
 - Wealth/Risk Analytics Engineer
@@ -526,25 +526,25 @@ secure-wealth-rag-assistant/
 ├── pyproject.toml
 ├── docker-compose.yml
 ├── docs_sample/
-│   ├── portfolio_report_sample.md
-│   ├── market_note_sample.md
-│   └── client_profile_synthetic.json
+│ ├── portfolio_report_sample.md
+│ ├── market_note_sample.md
+│ └── client_profile_synthetic.json
 ├── src/
-│   ├── ingest_documents.py
-│   ├── rag_pipeline.py
-│   ├── guardrails.py
-│   ├── evaluation.py
-│   └── app.py
+│ ├── ingest_documents.py
+│ ├── rag_pipeline.py
+│ ├── guardrails.py
+│ ├── evaluation.py
+│ └── app.py
 ├── tests/
-│   ├── test_retrieval.py
-│   ├── test_prompt_injection.py
-│   └── test_privacy_filters.py
+│ ├── test_retrieval.py
+│ ├── test_prompt_injection.py
+│ └── test_privacy_filters.py
 └── docs/
-    ├── hallucination_evaluation.md
-    ├── prompt_injection_tests.md
-    ├── privacy_controls.md
-    ├── human_review_policy.md
-    └── ai_governance.md
+ ├── hallucination_evaluation.md
+ ├── prompt_injection_tests.md
+ ├── privacy_controls.md
+ ├── human_review_policy.md
+ └── ai_governance.md
 ```
 
 ### Key evidence
@@ -578,9 +578,9 @@ jedha-rncp35288-portfolio/
 ├── bloc_5_mlops_deployment/
 ├── bloc_6_project_governance/
 └── docs/
-    ├── evidence_index.md
-    ├── public_safety_rules.md
-    └── certification_mapping.md
+ ├── evidence_index.md
+ ├── public_safety_rules.md
+ └── certification_mapping.md
 ```
 
 ### Public-safety constraint
