@@ -154,10 +154,10 @@ No real banking, insurance, health, client, employer or private data belongs her
 
 | Role family | Why this project helps |
 |---|---|
-| Junior Data Scientist | feature engineering, evaluation, threshold analysis |
-| Junior MLOps Engineer | MLflow, FastAPI, Docker, tests, runbooks |
+| Data Scientist | feature engineering, evaluation, threshold analysis |
+| MLOps Engineer | MLflow, FastAPI, Docker, tests, runbooks |
 | Risk Analytics Engineer | risk/anomaly modeling and model limitations |
-| AI Platform Engineer Junior | model lifecycle, serving, governance, monitoring |
+| AI Platform Engineer | model lifecycle, serving, governance, monitoring |
 | Insurance / finance analytics | synthetic claims/risk-style modeling patterns |
 
 ---
@@ -174,30 +174,30 @@ fraud-mlops-control-tower/
 ├── .env.example
 ├── .github/workflows/ci.yml
 ├── data/
-│   └── synthetic_risk_events.csv
+│ └── synthetic_risk_events.csv
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_training.ipynb
-│   └── 03_evaluation.ipynb
+│ ├── 01_eda.ipynb
+│ ├── 02_training.ipynb
+│ └── 03_evaluation.ipynb
 ├── src/
-│   ├── config.py
-│   ├── generate_synthetic_risk_data.py
-│   ├── features.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── api.py
-│   ├── monitor.py
-│   └── drift_detection.py
+│ ├── config.py
+│ ├── generate_synthetic_risk_data.py
+│ ├── features.py
+│ ├── train.py
+│ ├── evaluate.py
+│ ├── api.py
+│ ├── monitor.py
+│ └── drift_detection.py
 ├── tests/
-│   ├── test_synthetic_data.py
-│   ├── test_features.py
-│   └── test_api_schema.py
+│ ├── test_synthetic_data.py
+│ ├── test_features.py
+│ └── test_api_schema.py
 └── docs/
-    ├── data_card.md
-    ├── model_card.md
-    ├── risk_assessment.md
-    ├── monitoring_plan.md
-    └── deployment_runbook.md
+ ├── data_card.md
+ ├── model_card.md
+ ├── risk_assessment.md
+ ├── monitoring_plan.md
+ └── deployment_runbook.md
 ```
 
 ---
