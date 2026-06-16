@@ -255,7 +255,7 @@ No real banking, insurance, health, client, employer or private data belongs her
 
 | Role family | Why this project helps |
 |---|---|
-| Junior Data Engineer | schema, ingestion, SQL and Python data flow |
+| Data Engineer | schema, ingestion, SQL and Python data flow |
 | DataOps Engineer | quality checks, monitoring, reconciliation, runbooks |
 | Application & Data Support | incident investigation and operational controls |
 | Data Quality Analyst | controls matrix and validation evidence |
@@ -274,34 +274,34 @@ banking-dataops-monitoring/
 ├── pyproject.toml
 ├── Makefile
 ├── .env.example
-├── data/                         # generated locally, not committed
+├── data/ # generated locally, not committed
 ├── sql/
-│   ├── 00_schema.sql
-│   ├── 02_data_quality_checks.sql
-│   └── 03_reconciliation_queries.sql
+│ ├── 00_schema.sql
+│ ├── 02_data_quality_checks.sql
+│ └── 03_reconciliation_queries.sql
 ├── src/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── db.py
-│   ├── generate_synthetic_data.py
-│   ├── ingest_transactions.py
-│   ├── quality_checks.py
-│   ├── reconciliation.py
-│   └── monitoring.py
+│ ├── __init__.py
+│ ├── config.py
+│ ├── db.py
+│ ├── generate_synthetic_data.py
+│ ├── ingest_transactions.py
+│ ├── quality_checks.py
+│ ├── reconciliation.py
+│ └── monitoring.py
 ├── dashboard/
-│   └── streamlit_app.py
+│ └── streamlit_app.py
 ├── tests/
-│   ├── test_synthetic_data.py
-│   ├── test_quality_logic.py
-│   ├── test_reconciliation_logic.py
-│   └── test_monitoring.py
+│ ├── test_synthetic_data.py
+│ ├── test_quality_logic.py
+│ ├── test_reconciliation_logic.py
+│ └── test_monitoring.py
 └── docs/
-    ├── architecture.md
-    ├── data_dictionary.md
-    ├── controls_matrix.md
-    ├── incident_runbook.md
-    ├── rollback_plan.md
-    └── sample_outputs.md
+ ├── architecture.md
+ ├── data_dictionary.md
+ ├── controls_matrix.md
+ ├── incident_runbook.md
+ ├── rollback_plan.md
+ └── sample_outputs.md
 ```
 
 ---
