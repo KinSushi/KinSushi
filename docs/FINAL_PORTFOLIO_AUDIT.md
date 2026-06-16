@@ -180,7 +180,7 @@ The portfolio is no longer a roadmap-only profile. It includes executable valida
 The profile positioning is aligned with the target market:
 
 ```text
-Junior Data / MLOps Engineer for regulated and data-intensive systems
+Data / MLOps Engineer for regulated and data-intensive systems
 ```
 
 This speaks to:
