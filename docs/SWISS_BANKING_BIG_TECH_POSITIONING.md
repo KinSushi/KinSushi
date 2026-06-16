@@ -152,7 +152,7 @@ DataOps · MLOps · Data Engineering · Risk Analytics · AI Governance · Platf
 
 ## Core positioning
 
-> Junior Data / MLOps Engineer for regulated and large-scale technical environments.
+> Data / MLOps Engineer for regulated and large-scale technical environments.
 >
 > I build reliable data and ML systems: ingestion, SQL, data quality, monitoring, MLflow, Docker, CI/CD, documentation, audit evidence and AI governance.
 
@@ -207,23 +207,23 @@ The same portfolio should also speak to Swiss big-tech and scale-engineering tea
 
 ```mermaid
 flowchart TD
-    A[GitHub Profile README] --> B[Stack Map]
-    A --> C[Certification Map]
-    A --> D[Public Positioning]
+ A[GitHub Profile README] --> B[Stack Map]
+ A --> C[Certification Map]
+ A --> D[Public Positioning]
 
-    B --> E[banking-dataops-monitoring]
-    B --> F[fraud-mlops-control-tower]
-    B --> G[secure-wealth-rag-assistant]
-    B --> H[database-migration-quality-lab]
+ B --> E[banking-dataops-monitoring]
+ B --> F[fraud-mlops-control-tower]
+ B --> G[secure-wealth-rag-assistant]
+ B --> H[database-migration-quality-lab]
 
-    C --> I[jedha-rncp35288-portfolio]
-    D --> J[sovralys-infra-lab]
-    D --> K[pty-flights-pricing]
+ C --> I[jedha-rncp35288-portfolio]
+ D --> J[sovralys-infra-lab]
+ D --> K[pty-flights-pricing]
 
-    J --> E
-    K --> E
-    E --> F
-    F --> G
+ J --> E
+ K --> E
+ E --> F
+ F --> G
 ```
 
 ---
