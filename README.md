@@ -8,13 +8,13 @@
 
 # Enzo · KinSushi
 
-### Junior Data / DataOps / MLOps / AI Engineer — Switzerland
+### Data / DataOps / MLOps / AI Engineer — Switzerland
 
 **Python · SQL · PostgreSQL · Linux · Git · Bash · Docker · CI/CD · Data Quality · Monitoring · MLflow · AI Governance**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-c-di-bacco-074842226)
 ![Location](https://img.shields.io/badge/Switzerland-Geneva%20·%20Lausanne%20·%20Zurich%20·%20Basel-DC143C?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Open%20to-Junior%20Data%20%2F%20MLOps%20roles-1F6FEB?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Open%20to-Data%20%2F%20MLOps%20roles-1F6FEB?style=for-the-badge)
 
 </div>
 
@@ -59,7 +59,7 @@ I build **reliable data and ML systems** for regulated, data-intensive Swiss env
 - **Retail / e-commerce / industry** — events, APIs, analytics, anomaly monitoring.
 - **Cloud / platform teams** — Docker, CI/CD, observability, reproducible data systems.
 
-**Target roles:** Junior Data Engineer · DataOps Engineer · Junior MLOps Engineer · Data Quality / Risk Analyst · Application & Data Support Engineer.
+**Target roles:** Data Engineer · DataOps Engineer · MLOps Engineer · Data Quality / Risk Analyst · Application & Data Support Engineer.
 
 ---
 
@@ -87,7 +87,7 @@ I build **reliable data and ML systems** for regulated, data-intensive Swiss env
 
 <div align="center">
 
-**Open to junior Data / DataOps / MLOps / AI roles in Switzerland.**
+**Open to Data / DataOps / MLOps / AI roles in Switzerland.**
 [Reach me on LinkedIn](https://www.linkedin.com/in/enzo-c-di-bacco-074842226)
 
 <sub>Public GitHub optimized for technical evidence. Application materials and private documents are intentionally kept off this profile.</sub>
