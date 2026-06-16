@@ -362,35 +362,35 @@ This positioning is intentionally broader than one employer. It is meant to spea
 
 ```mermaid
 flowchart LR
-    A[Data Sources] --> B[Ingestion]
-    B --> C[Storage]
-    C --> D[Quality Controls]
-    D --> E[Analytics]
-    D --> F[ML Training]
-    F --> G[Model Registry]
-    G --> H[Serving API]
-    H --> I[Monitoring]
-    I --> J[Governance Evidence]
-    J --> K[Audit / Risk Review]
+ A[Data Sources] --> B[Ingestion]
+ B --> C[Storage]
+ C --> D[Quality Controls]
+ D --> E[Analytics]
+ D --> F[ML Training]
+ F --> G[Model Registry]
+ G --> H[Serving API]
+ H --> I[Monitoring]
+ I --> J[Governance Evidence]
+ J --> K[Audit / Risk Review]
 
-    subgraph DataOps
-        B
-        C
-        D
-        I
-    end
+ subgraph DataOps
+ B
+ C
+ D
+ I
+ end
 
-    subgraph MLOps
-        F
-        G
-        H
-        I
-    end
+ subgraph MLOps
+ F
+ G
+ H
+ I
+ end
 
-    subgraph Governance
-        J
-        K
-    end
+ subgraph Governance
+ J
+ K
+ end
 ```
 
 ---
@@ -614,7 +614,7 @@ Bank-compatible evidence:
 |---|---|---|
 | `sovralys-infra-lab` | Linux/KVM infrastructure lab and operational runbooks | IT Production, DataOps, MLOps foundations |
 | `pty-flights-pricing` | Production-style Python API pipeline with scheduling and alerting | DataOps, Application Support, Data Engineering |
-| `banking-dataops-monitoring` | SQL, PostgreSQL, data quality, reconciliation and monitoring | DataOps, Junior Data Engineer, Banking IT |
+| `banking-dataops-monitoring` | SQL, PostgreSQL, data quality, reconciliation and monitoring | DataOps, Data Engineer, Banking IT |
 | `fraud-mlops-control-tower` | Fraud/risk ML pipeline with MLflow, API serving and monitoring | Data Scientist, MLOps, Risk Analytics |
 | `database-migration-quality-lab` | Legacy-to-target migration, validation and reconciliation | Data Engineer, Data Migration, Banking IT |
 | `secure-wealth-rag-assistant` | RAG/LLMOps with privacy, evaluation and governance | GenAI, LLMOps, Wealth/Risk Analytics |
