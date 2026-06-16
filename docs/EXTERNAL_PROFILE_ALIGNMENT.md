@@ -83,7 +83,7 @@ It is not a CV, not a cover letter and not a job application.
 ## Public headline option
 
 ```text
-Junior Data / MLOps Engineer | Python · SQL · DataOps · MLflow · Docker · Monitoring | Regulated Finance & Swiss Data Platforms
+Data / MLOps Engineer | Python · SQL · DataOps · MLflow · Docker · Monitoring | Regulated Finance & Swiss Data Platforms
 ```
 
 ---
