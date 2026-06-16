@@ -121,7 +121,7 @@ No real core-banking, insurance, health, client, employer or private data belong
 
 | Role family | Why this project helps |
 |---|---|
-| Junior Data Engineer | schema design, migration SQL and validation |
+| Data Engineer | schema design, migration SQL and validation |
 | Data Migration Engineer | legacy-to-target mapping and rollback planning |
 | Banking / insurance IT | regulated-data reconciliation and controls |
 | Data Quality Analyst | validation rules and quality evidence |
@@ -137,23 +137,23 @@ database-migration-quality-lab/
 ├── docker-compose.yml
 ├── pyproject.toml
 ├── sql/
-│   ├── 00_legacy_schema.sql
-│   ├── 01_target_schema.sql
-│   ├── 02_seed_legacy_data.sql
-│   ├── 03_migration.sql
-│   ├── 04_validation_checks.sql
-│   └── 05_reconciliation_report.sql
+│ ├── 00_legacy_schema.sql
+│ ├── 01_target_schema.sql
+│ ├── 02_seed_legacy_data.sql
+│ ├── 03_migration.sql
+│ ├── 04_validation_checks.sql
+│ └── 05_reconciliation_report.sql
 ├── src/
-│   ├── migrate.py
-│   ├── validate.py
-│   └── generate_report.py
+│ ├── migrate.py
+│ ├── validate.py
+│ └── generate_report.py
 ├── tests/
-│   └── test_migration_contract.py
+│ └── test_migration_contract.py
 └── docs/
-    ├── migration_strategy.md
-    ├── data_quality_rules.md
-    ├── rollback_plan.md
-    └── performance_notes.md
+ ├── migration_strategy.md
+ ├── data_quality_rules.md
+ ├── rollback_plan.md
+ └── performance_notes.md
 ```
 
 ---
