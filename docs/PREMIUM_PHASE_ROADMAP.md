@@ -206,7 +206,7 @@ Priority: P1.
 Actions:
 
 - align LinkedIn headline with GitHub positioning;
-- align CV headline with `Junior Data / MLOps Engineer for regulated and data-intensive systems`;
+- align CV headline with `Data / MLOps Engineer for regulated and data-intensive systems`;
 - do not mention application strategy inside public repos;
 - keep Swiss banking, insurance, health data, pharma/medtech and big-tech compatibility visible but neutral;
 - avoid narrow positioning around one company.
