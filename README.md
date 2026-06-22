@@ -81,7 +81,7 @@ I build **reliable data and ML systems** for regulated, data-intensive Swiss env
 | Italian | Native |
 | English | Professional — C1 |
 | Spanish | Operational — B2 |
-| German | B2 — In Progress |
+| German | In Progress — B2 |
 
 ---
 
